@@ -1,0 +1,31 @@
+.toast-success {
+  background: #32cd32;
+  color: white;
+}
+
+.toast-error {
+  background: #fa8072;
+  color: white;
+}
+
+.row-high {
+  background-color: #357a38 !important;
+}
+
+.ag-theme-alpine .ag-header:hover {
+  background-color: #2196f3;
+}
+
+.ag-theme-alpine .ag-header {
+  background-color: #2196f3;
+}
+
+.grid-style {
+  color:white;
+}
+
+/* .ag-side-bar {
+  background-color: #2196f3 !important;
+} */
+
+
